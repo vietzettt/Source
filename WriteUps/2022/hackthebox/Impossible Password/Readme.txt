@@ -1,0 +1,1 @@
+Với thử thách này thì ta đọc chương trình ta thấy có một loạt các lệnh thêm dữ liệu vào stack, thử vào kiểm tra decode trên web cyberchef thì ra luôn flags
